@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-color: palevioletred;
+}
+.title{
+    text-align: center;
+}
+.art{
+    width:1000px;
+    border: 2px solid teal;  
+    float: left;
+}
+.art1{
+    width:150px;
+    height:50PX;
+
+    
+    }
+
+.title1{
+    margin-left: 5px;
+}
+.title2{
+    width:600px;
+}
+.title2{
+    margin-bottom: 30px;
+}
+.title3{
+    width: 900px;
+    
+}
+.header{
+    float: left;
+    width: 300;
+    
+}
+.list li{
+    padding: 20PX;
+    margin-left: 20PX;
+}
+
+
+.list1{
+    margin-left: 20px
+}
+.list2{
+    margin-left: 30px;
+}
+.post{
+    border: 2px solid black;
+    background-color:teal;
+    float:right;
+    width: 300px;
+    height: 630px;
+    margin-left: 16px;
+    
+}
+.right{
+    clear: both;
+}
+header{
+    float: left;
+  background-color:grey;
+  margin-right: 30px;
+  
+  
+}
+.tags{
+
+float: left;
+}
+.gayathri{
+    float: left;
+    margin-left: 30px;
+    margin-right: 467px;
+
+}
+
+
+
+
+
